@@ -25,7 +25,7 @@ Seu objetivo é criar uma simples aplicação que deve conter as seguintes pági
 
 #### Requisitos não funcionais:
 
-- Sua aplicação deverá ser uma SPA;
+- Sua aplicação deverá ser uma SPA (Single Page Application);
 - Deverá ser utilizado algum framework de mercado Angular, React, Vue (Dê preferencia Vue)
 - Deverá ser utilizado alguma biblioteca de controle de estado (NgRx, Redux, Vuex, etc ...)
 - Não devera ser utilizado nenhum biblioteca CSS como Bootstrap ou Materialize, ou suas  implementações para os frameworks, como Angular Material, React Bootstrap, Vuetify, entre outros. (Queremos ver a sua capacidade de lidar com essa parte)
